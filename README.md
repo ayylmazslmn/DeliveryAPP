@@ -19,7 +19,8 @@ We click on the products we choose and send them to the basket.
 If the e-mail or phone number is not written in the appropriate format while filling in the information, it notifies the user with an error.
 
 
-![Ekran Resmi 2024-01-10 11 46 03](https://github.com/ayylmazslmn/DeliveryAPP/assets/101000802/50b09a67-ed50-4190-90eb-085e7f0c5a28)
+![Ekran Resmi 2024-01-10 11 46 03](https://github.com/ayylmazslmn/DeliveryAPP/assets/101000802/c3a6177b-3046-4960-b96e-687821d99307)
+
 
 
 
